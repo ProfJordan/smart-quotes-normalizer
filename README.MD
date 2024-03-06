@@ -1,5 +1,7 @@
 # Smart Quotes Normalizer for VSCode
 
+![Logo](images/logo.png)
+
 ## Overview
 
 The Smart Quotes Normalizer is a lightweight VSCode Plugin designed to seamlessly convert smart quotes to standard quotes within your code. This essential tool ensures consistency in string quotations, preventing errors that can arise from the automatic conversion of standard quotes to smart quotes in various Microsoft products like Outlook and Word.
