@@ -21,13 +21,19 @@ Customizable Settings: Offers the flexibility to enable or disable automatic con
 ## Installation
 
 1. Open Visual Studio Code.
-2. Navigate to the Extensions view by clicking on the square icon on the sidebar, or by pressing Ctrl+Shift+X.
+2. Navigate to the Extensions view by clicking on the square icon on the sidebar, or by pressing Ctrl+Shift+X on PC or Cmd+Shift+X on Mac.
 3. Search for "Smart Quotes Normalizer".
 4. Click on the Install button to add the plugin to your VSCode setup.
 
 ## Usage
 
-Once installed, the plugin automatically detects and converts smart quotes in your active file. You can customize its behavior and toggle the feature on or off through the extension settings, accessible via `File > Preferences > Settings > Extensions > Smart Quotes Normalizer`.
+Once installed, the plugin can be activated via the command palette (Ctrl+Shift+P on PC or Cmd+Shift+P on Mac) and typing "Convert Smart Quotes to Straight Quotes" OR by using the shortcuts below. You can customize its behavior and toggle the feature on or off through the extension settings, accessible via `File > Preferences > Settings > Extensions > Smart Quotes Normalizer`.
+
+### Shortcuts
+
+To "Convert Smart Quotes to Straight Quotes", use the following shortcuts:
+Windows/Linux: `ctrl+alt+s`
+Mac: `cmd+alt+s`
 
 ## Why Use Smart Quotes Normalizer?
 
