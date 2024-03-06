@@ -6,6 +6,7 @@
   "author": "@ProfJordan",
   "publisher": "pinebeecreative",
   "license": "Beerware",
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.87.0"
   },
