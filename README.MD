@@ -44,3 +44,7 @@ Embrace peace of mind and enhance your coding efficiency with the Smart Quotes N
 ## Author
 
 - [@ProfJordan](https://www.github.com/ProfJordan)
+
+## License
+
+- [Beerware](https://en.wikipedia.org/wiki/Beerware)
